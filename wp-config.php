@@ -94,6 +94,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
-define('WP_HOME', 'https://orlandocvs.github.io/wordpress_servidores2');
-define('WP_SITEURL', 'https://orlandocvs.github.io/wordpress_servidores2');
+define('WP_HOME', 'https://orlandocvs.github.io/wordpress_servidores2/');
+define('WP_SITEURL', 'https://orlandocvs.github.io/wordpress_servidores2/');
 
